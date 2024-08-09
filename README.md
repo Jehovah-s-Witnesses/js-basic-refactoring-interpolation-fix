@@ -1,6 +1,6 @@
-# template-vanilla
+# js-basic-refactoring-interpolation-fix
 
-## Text
+## Fix string interpolation in pattern string
 
 ## We have a problem with loading script and access to html element due loading. Please, fix the place of script in html file
 
